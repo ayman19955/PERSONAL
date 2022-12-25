@@ -138,6 +138,13 @@ nav ul li a:hover{
     
 }
 
+.container-texts h1{
+    
+    text-align:center;
+    
+}
+
+
 .container-texts a img{
     width: 3rem;
     transition: 0.3s;
