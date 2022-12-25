@@ -138,11 +138,7 @@ nav ul li a:hover{
     
 }
 
-.container-texts h1{
-    
-   text-align: center;
-    
-}
+
 
 
 .container-texts a img{
@@ -337,6 +333,12 @@ footer .content-footer .end{
     .home{
         height: auto;
         padding-bottom: 10%;
+    }
+    
+    .container-texts h1{
+    
+        text-align: center;
+    
     }
 
     .home .container-images{
