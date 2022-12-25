@@ -452,6 +452,12 @@ footer .content-footer .end{
     .home .container-images{
         display: none;
     }
+    
+     .container-texts h1{
+    
+        text-align: center;
+    
+    }
 
     .content{
         flex-grow: 0;
@@ -666,6 +672,12 @@ footer .content-footer .end{
     .home{
         height: auto;
         padding-bottom: 10%;
+    }
+    
+     .container-texts h1{
+    
+        text-align: center;
+    
     }
 
     .content{
