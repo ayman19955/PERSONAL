@@ -555,7 +555,13 @@ footer .content-footer .end{
         height: auto;
         padding-bottom: 10%;
     }
-
+    
+     .container-texts h1{
+    
+        text-align: center;
+    
+    }
+    
     .home .container-images{
         display: none;
     }
